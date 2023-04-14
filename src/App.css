@@ -211,13 +211,13 @@ select {
   width: 0%;
   transition: all 0.3s ease-in-out;
 }
-.line_hover:focus::after {
+.line_hover::after {
   content: "";
   position: absolute;
   width: 100%;
   transform: translateX(-50%);
 }
-.col_change:focus {
+.col_change {
   color: #ff0000 !important;
 }
 .hover_opc:hover {
