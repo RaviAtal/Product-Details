@@ -9,19 +9,31 @@ function UseStateDesc() {
           <div className="d-flex gap-md-4 gap-lg-5">
             <button
               onClick={() => setChange(1)}
-              className="btn border-0 ff_poppins fw-normal fs_md position-relative line_hover col_change p-0"
+              className={
+                Change === 1
+                  ? "btn border-0 ff_poppins fw-normal fs_md position-relative line_hover col_change p-0"
+                  : "btn border-0 ff_poppins fw-normal fs_md position-relative p-0"
+              }
             >
               DESCRIPTION
             </button>
             <button
               onClick={() => setChange(2)}
-              className="btn border-0 ff_poppins fw-normal fs_md position-relative line_hover col_change p-0"
+              className={
+                Change === 2
+                  ? "btn border-0 ff_poppins fw-normal fs_md position-relative line_hover col_change p-0"
+                  : "btn border-0 ff_poppins fw-normal fs_md position-relative  p-0"
+              }
             >
               ADDITIONAL INFORMATION
             </button>
             <button
               onClick={() => setChange(3)}
-              className="btn border-0 ff_poppins fw-normal fs_md position-relative line_hover col_change p-0"
+              className={
+                Change === 3
+                  ? "btn border-0 ff_poppins fw-normal fs_md position-relative line_hover col_change p-0"
+                  : "btn border-0 ff_poppins fw-normal fs_md position-relative  p-0"
+              }
             >
               REVIEWS (1)
             </button>
