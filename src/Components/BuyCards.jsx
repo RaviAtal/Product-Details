@@ -29,9 +29,9 @@ function BuyCards() {
                       </p>
                     </div>
                     <div className="d-flex justify-content-center mt-2 mt-xxl-0">
-                      <button className="btn ff_poppins Best_price text-white fs_10 py-1 text-center pointer">
-                        Best Price
-                      </button>
+                      <p className="m-0 px-2 ff_poppins Best_price text-white fs_10 py-1 text-center pointer">
+                        Best Pricef
+                      </p>
                     </div>
                   </div>
                   <div className="d-flex gap-4 align-items-center">
@@ -178,9 +178,9 @@ function BuyCards() {
                       </p>
                     </div>
                     <div className="d-flex justify-content-center mt-2 mt-xxl-0">
-                      <button className="btn ff_poppins Best_price text-white fs_10 py-1 text-center">
-                        Best Price
-                      </button>
+                      <p className=" m-0 px-2 ff_poppins Best_price text-white fs_10 py-1 text-center pointer">
+                        Best Pricef
+                      </p>
                     </div>
                   </div>
                   <div className="d-flex gap-4 align-items-center">
@@ -327,9 +327,9 @@ function BuyCards() {
                       </p>
                     </div>
                     <div className="d-flex justify-content-center  mt-2 mt-xxl-0">
-                      <button className="btn ff_poppins Best_price text-white fs_10 py-1 text-center">
-                        Best Price
-                      </button>
+                      <p className=" m-0 px-2 ff_poppins Best_price text-white fs_10 py-1 text-center pointer">
+                        Best Pricef
+                      </p>
                     </div>
                   </div>
                   <div className="d-flex gap-4 align-items-center">
@@ -476,9 +476,9 @@ function BuyCards() {
                       </p>
                     </div>
                     <div className="d-flex justify-content-center mt-2 mt-xxl-0">
-                      <button className="btn ff_poppins Best_price text-white fs_10 py-1 text-center">
-                        Best Price
-                      </button>
+                      <p className=" m-0 px-2 ff_poppins Best_price text-white fs_10 py-1 text-center pointer">
+                        Best Pricef
+                      </p>
                     </div>
                   </div>
                   <div className="d-flex gap-4 align-items-center">
