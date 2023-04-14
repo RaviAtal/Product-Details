@@ -133,7 +133,7 @@ function Header() {
                   </button>
                 </div>
                 <div className="mt-4 d-flex gap-3 align-items-center">
-                  <p className="m-0 ff_poppins fw_500">Size : </p>
+                  <p className="m-0 ff_poppins fw_500">Size: </p>
                   <select name="Size" className="border_qty arrow px-4">
                     <option value="S">S</option>
                     <option value="Sm">Sm</option>
@@ -142,7 +142,7 @@ function Header() {
                   </select>
                 </div>
                 <div className="mt-4 d-flex gap-2 align-items-center">
-                  <p className="m-0 ff_poppins fw_500">Color : </p>
+                  <p className="m-0 ff_poppins fw_500">Color: </p>
                   <div className="clr_border pointer">
                     <div className="bg_red"></div>
                   </div>
