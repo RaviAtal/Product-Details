@@ -36,13 +36,13 @@
   font-weight: 500 !important;
 }
 .ff_poppins {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif !important;
 }
 .ff_roboto {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif !important;
 }
 .ff_josefin {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif !important;
 }
 /* nav.jsx */
 .border_nav {
