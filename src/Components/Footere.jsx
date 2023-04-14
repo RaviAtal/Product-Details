@@ -14,7 +14,7 @@ function Footere() {
           <Row className=" justify-content-between ">
             <Col sm={12} md={12} lg={4}>
               <div>
-                <p className="m-0 text-white opacity-75 ff_poppins fw-normal fs_xsm">
+                <p className="m-0 text-white opacity-75 ff_poppins fw-normal fs_xsm hover_opc">
                   Sed nec ultricies felis, vitae facilisis ipsum. Morbi id
                   turpis euismod, rhoncus tortor quis, lobortis sapien. Sed
                   imperdiet nulla in leo ullamcorper, in finibus elit porta.
@@ -45,7 +45,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -53,7 +53,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -73,7 +73,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -81,7 +81,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -89,7 +89,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -109,7 +109,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -117,7 +117,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -137,7 +137,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>
@@ -145,7 +145,7 @@ function Footere() {
                 <li className="mb-3">
                   <a
                     href="/"
-                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75"
+                    className="m-0 ff_poppins text-white fw-normal fs_sm opacity-75 hover_opc"
                   >
                     Lorem ipsum
                   </a>

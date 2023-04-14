@@ -134,7 +134,10 @@ function Header() {
                 </div>
                 <div className="mt-4 d-flex gap-3 align-items-center">
                   <p className="m-0 ff_poppins fw_500">Size: </p>
-                  <select name="Size" className="border_qty arrow px-4">
+                  <select
+                    name="Size"
+                    className="border_qty arrow px-4 ff_josefin fs_md fw-normal"
+                  >
                     <option value="S">S</option>
                     <option value="Sm">Sm</option>
                     <option value="Md">Md</option>

@@ -18,19 +18,19 @@
 
 /* -------FONT SIZE------- */
 .fs_xsm {
-  font-size: var(--fs-xsm);
+  font-size: var(--fs-xsm) !important;
 }
 .fs_sm {
   font-size: var(--fs-sm) !important;
 }
 .fs_md {
-  font-size: var(--fs-md);
+  font-size: var(--fs-md) !important;
 }
 .fs_lg {
-  font-size: var(--fs-lg);
+  font-size: var(--fs-lg) !important;
 }
 .fs_xl {
-  font-size: var(--fs-xl);
+  font-size: var(--fs-xl) !important;
 }
 .fw_500 {
   font-weight: 500 !important;
@@ -219,6 +219,9 @@ select {
 }
 .col_change:focus {
   color: #ff0000 !important;
+}
+.hover_opc:hover {
+  opacity: 1 !important;
 }
 /* Back to top */
 .backtotop_btn {
