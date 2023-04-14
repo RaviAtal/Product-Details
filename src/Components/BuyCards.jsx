@@ -29,7 +29,7 @@ function BuyCards() {
                       </p>
                     </div>
                     <div className="d-flex justify-content-center mt-2 mt-xxl-0">
-                      <button className="btn ff_poppins Best_price text-white fs_10 py-1 text-center">
+                      <button className="btn ff_poppins Best_price text-white fs_10 py-1 text-center pointer">
                         Best Price
                       </button>
                     </div>

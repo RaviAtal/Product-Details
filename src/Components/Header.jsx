@@ -104,7 +104,7 @@ function Header() {
                     ( 5 Customer Review )
                   </p>
                 </div>
-                <p className="m-0 mt-4 ff_poppins fw-normal fs_md ">
+                <p className="m-0 mt-4 ff_poppins fw-normal fs_md opacity-75">
                   Sed nec ultricies felis, vitae facilisis ipsum. Morbi id
                   turpis euismod, rhoncus tortor quis, lobortis sapien. Sed
                   imperdiet nulla in leo ullamcorper, in finibus elit porta. Sed
@@ -157,11 +157,11 @@ function Header() {
                   </div>
                 </div>
                 <div className="mt-4 d-flex align-items-center gap-5">
-                  <div className="d-flex align-items-center gap-2">
+                  <div className="d-flex align-items-center gap-2 pointer">
                     <img src={Compare} alt="Compare" />
                     <p className="m-0 ff_poppins fs_xsm fw-light">Compare</p>
                   </div>
-                  <div className="d-flex align-items-center gap-2">
+                  <div className="d-flex align-items-center gap-2 pointer">
                     <img src={Wishlist} alt="Wishlist" />
                     <p className="m-0 ff_poppins fs_xsm fw-light">Wishlist</p>
                   </div>

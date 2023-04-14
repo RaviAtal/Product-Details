@@ -80,7 +80,7 @@ function Related() {
                             </p>
                           </div>
                         </div>
-                        <img className="" src={param.img4} alt="img3" />
+                        <img className=" pointer" src={param.img4} alt="img3" />
                       </div>
                       <img
                         className="p-3"
