@@ -155,10 +155,10 @@ function BuyCards() {
                       </div>
                     </div>
                   </div>
-                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia">
+                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia pointer">
                     View this product as:
                   </p>
-                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue">
+                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue pointer">
                     Foot Locker NL
                   </p>
                 </div>
@@ -304,10 +304,10 @@ function BuyCards() {
                       </div>
                     </div>
                   </div>
-                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia">
+                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia pointer">
                     View this product as:
                   </p>
-                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue">
+                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue pointer">
                     Foot Locker NL
                   </p>
                 </div>
@@ -453,10 +453,10 @@ function BuyCards() {
                       </div>
                     </div>
                   </div>
-                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia">
+                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia pointer">
                     View this product as:
                   </p>
-                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue">
+                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue pointer">
                     Foot Locker NL
                   </p>
                 </div>
@@ -602,10 +602,10 @@ function BuyCards() {
                       </div>
                     </div>
                   </div>
-                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia">
+                  <p className="m-0 mt-3 ff_poppins fw-normal fs_sxm text_mahindia pointer">
                     View this product as:
                   </p>
-                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue">
+                  <p className="m-0 mt-2 ff_poppins fw-semibold fs_sxm text_blue pointer">
                     Foot Locker NL
                   </p>
                 </div>
