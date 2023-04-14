@@ -112,7 +112,7 @@ function Nav() {
                     className="btn btn-danger btn-close p-3 rounded-5"
                   ></button>
                 </div>
-                <ul className="pt-5">
+                <ul className="pt-5 ps-0">
                   <li className="mt-3">
                     <a
                       className=" ff_roboto fs_sm fw-normal text-black nav_text text-white"

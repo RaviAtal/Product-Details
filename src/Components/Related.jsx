@@ -50,7 +50,7 @@ function Related() {
               .map((param) => {
                 return (
                   <Col lg={3} md={6} className="mt-4 up ">
-                    <div className="border_card me-3 me-md-0">
+                    <div className="border_card me-sm-1">
                       <div className=" position-relative">
                         <img className="w-100 " src={param.img1} alt="img1" />
                         <div>

@@ -93,8 +93,8 @@ function Header() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6">
-              <div className="ms-4">
+            <div className="col-lg-6 mt-4 mt-lg-0">
+              <div className="ms-lg-4">
                 <h1 className=" ff_poppins fw-semibold fs_xl text-black m-0">
                   PREMIUM MENS SPORTS LATHER KEDS
                 </h1>

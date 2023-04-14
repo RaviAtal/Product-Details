@@ -174,9 +174,6 @@ select {
   transform: translateY(-5px);
   transition: all 0.5s ease-in;
 }
-.border_card:hover {
-  box-shadow: 23px 44px 47px rgba(0, 0, 0, 0.2);
-}
 .buton_num {
   box-shadow: 3px 5px 22px rgba(0, 0, 0, 0.08);
   border-radius: 9.21875px;
@@ -263,6 +260,9 @@ select {
     --fs-md: 18px;
     --fs-lg: 23px;
     --fs-xl: 28px;
+  }
+  .border_card:hover {
+    box-shadow: 23px 44px 47px rgba(0, 0, 0, 0.2);
   }
 }
 @media (min-width: 992px) {
