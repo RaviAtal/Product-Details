@@ -206,7 +206,7 @@ select {
 .line_hover::after {
   content: "";
   position: absolute;
-  background-color: #ff0000;
+  background-color: #ff4400;
   border-radius: 0px;
   height: 3px;
   left: 50%;
@@ -222,6 +222,17 @@ select {
 }
 .col_change:focus {
   color: #ff0000 !important;
+}
+/* Back to top */
+.backtotop_btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ff0000;
+  padding: 8px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
 }
 /*----MEDIA QUA--------- */
 @media (max-width: 575px) {

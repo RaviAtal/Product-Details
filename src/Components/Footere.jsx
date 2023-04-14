@@ -32,7 +32,7 @@ function Footere() {
                 </div>
               </div>
             </Col>
-            <Col xs={6} md={6} lg={2} className="mt-4 mt-lg-0">
+            <Col xs={6} md={6} lg={2} className="mt-4 mt-lg-0 ps-lg-5">
               <ul className="m-0 p-0">
                 <li className="mb-4">
                   <a
@@ -60,7 +60,7 @@ function Footere() {
                 </li>
               </ul>
             </Col>
-            <Col xs={6} md={6} lg={2} className="mt-4 mt-lg-0">
+            <Col xs={6} md={6} lg={2} className="mt-4 mt-lg-0 ps-lg-4">
               <ul className="m-0 p-0">
                 <li className="mb-4">
                   <a

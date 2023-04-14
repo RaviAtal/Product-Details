@@ -9,6 +9,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Footere from "./Components/Footere";
 import UseStateDesc from "./Components/UseStateDesc";
+import BackToTop from "./Components/BackToTop";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <UseStateDesc />
       <Related />
       <Footere />
+      <BackToTop />
     </>
   );
 }
